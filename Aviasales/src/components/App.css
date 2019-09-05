@@ -1,0 +1,78 @@
+/* ALL */
+* {
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI",
+        Roboto, Oxygen, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+/* BODY */
+body {
+    background: #f3f7fa;
+}
+
+/* LOG */
+.logo {
+    margin: 40px auto 30px;
+    display: block;
+}
+
+/* TRANSPLANT OPTIONS */
+.transplants-title {
+    padding: 20px;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    color: #4a4a4a;
+}
+
+.transplants-filter {
+    position: relative;
+    margin-top: 50px;
+    width: 232px;
+    height: 252px;
+    background-color: #fff;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    left: 30%;
+}
+
+/* .transplants-filter label {
+    position: relative;
+    width: 100%;
+    height: 20px;
+}
+
+.transplants-filter input[type="checkbox"] {
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+}
+
+.transplants-filter .checkmark:after {
+    content: "";
+    position: absolute;
+    top: 20%;
+    left: 8%;
+    right: 85.1%;
+    width: 20px;
+    height: 20px;
+    border: 1px solid #9abbce;
+    box-sizing: border-box;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.transplants-filter .checkmark:hover::after {
+    border: 1px solid #2196f3;
+}
+
+.transplants-filter .all ~ .checkmark:before {
+    content: "Все";
+    font-size: 13px;
+    line-height: 20px;
+    color: #4a4a4a;
+} */
+
+/* TICKETS */

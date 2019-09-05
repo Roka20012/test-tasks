@@ -1,3 +1,12 @@
 import React from "react";
 
-export default () => <div>hello</div>;
+import Filter from "./Filter";
+import Logo from "../img/Logo.svg";
+import "./App.css";
+
+export default () => (
+    <>
+        <img className="logo" src={Logo} alt="logo" />
+        <Filter />
+    </>
+);
